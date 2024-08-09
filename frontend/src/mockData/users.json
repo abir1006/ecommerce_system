@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "user1@test.com",
+    "roles": [
+      {
+        "role": "ADMIN"
+      }
+    ],
+    "phone": "+1-644-655-3455",
+    "address": {
+      "street": "123 New St",
+      "city": "New City",
+      "state": "New State",
+      "postalCode": "12345",
+      "country": "USA"
+    }
+  }
+]
